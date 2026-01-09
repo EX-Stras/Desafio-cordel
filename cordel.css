@@ -105,7 +105,7 @@ footer {
 
 footer > p {
     margin: 0;
-    font-size: 1.2em;
+    font-size: clamp(1.4vw, 3vw, 30px);
     padding-left: 40px;
     padding-right: 40px;
     font-weight: 300;
@@ -114,7 +114,7 @@ footer > p {
 footer > p > a {
     color: #ffffff;
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: clamp(1.4vw, 3vw, 30px);
     font-family: 'Passion One', cursive;
     font-weight: bold;
 }
