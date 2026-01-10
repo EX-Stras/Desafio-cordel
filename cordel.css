@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #000000;
-    padding: 20px 0px 20px 0px;
+    padding: 50px 0px 50px 0px;
     width: 100%;
     color: #ffffff;
     text-align: center;
@@ -20,14 +20,13 @@ header > h1 {
     font-size: clamp(4vw, 8vw, 70px);
     font-family: 'Passion One', cursive;
     font-weight: bold;
-    text-transform: uppercase;
-    margin: 40px 0 10px 0;
+    font-variant: small-caps;
+    margin: 0px 0 10px 0;
 }
 
 header > p {
     margin: 0;
     font-size: 1.2em;
-    padding-bottom: 40px;
 }
 
 header > p > a {
@@ -63,12 +62,12 @@ main.flor {
     background-size: cover;
     color: #ffffff;
     width: 100%;
-    padding: 1px 0px 1px 0px;
+    padding: 10vh 0px 10vh 0px;
     box-shadow: #000000 0px 0px 20px 1px inset;
 }
 
 main.flor > p {
-    margin: 60px 0px 60px 30px;
+    margin: 0px 0px 0px 30px;
     font-size: clamp(1.5vw, 3.5vw, 36px);
     padding: 20px 10px 20px 10px;
     line-height: 2.0em;
@@ -82,12 +81,12 @@ main.folha {
     background-size: cover;
     color: #ffffff;
     width: 100%;
-    padding: 1px 0px 1px 0px;
+    padding: 10vh 0px 10vh 0px;
     box-shadow: #000000 0px 0px 20px 1px inset;
 }
 
 main.folha > p {
-    margin: 60px 0px 60px 30px;
+    margin: 0px 0px 0px 30px;
     font-size: clamp(1.5vw, 3.5vw, 36px);
     padding: 20px 10px 20px 10px;
     line-height: 2.0em;
