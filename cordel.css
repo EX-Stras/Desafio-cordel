@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -44,7 +46,7 @@ header > p > a:hover {
 body > p {
     font-size: clamp(1.5vw, 3.5vw, 36px);
     line-height: 2em;
-    font-family: '', cursive;
+    font-family: 'Sriracha', cursive;
     margin: 40px 0px 80px 40px;
     font-weight: bold;
 }
@@ -71,7 +73,7 @@ main.flor > p {
     font-size: clamp(1.5vw, 3.5vw, 36px);
     padding: 20px 10px 20px 10px;
     line-height: 2.0em;
-    font-family: '', cursive;
+    font-family: 'Sriracha', cursive;
     background-color: rgba(0, 0, 0, 0.499);
     display: inline-block;
 }
@@ -90,7 +92,7 @@ main.folha > p {
     font-size: clamp(1.5vw, 3.5vw, 36px);
     padding: 20px 10px 20px 10px;
     line-height: 2.0em;
-    font-family: '', cursive;
+    font-family: 'Sriracha', cursive;
     background-color: rgba(0, 0, 0, 0.499);
     display: inline-block;
 }
